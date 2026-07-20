@@ -9,7 +9,7 @@
 | 3. Esquema de saída / Formatação | Restrições de formato de resposta (JSON schema, regex, etc.) | ~300 | Fixa |
 | 4. Histórico da Conversa | Mensagens anteriores trocadas entre usuário e assistente | ~500 por interação | Dinâmica |
 | 5. Mensagem atual do usuário | O prompt ou pergunta mais recente enviada pelo usuário | ~150 | Dinâmica |
-| 6. Contexto adicional / RAG | Documentos recuperados, contexto de ferramentas, memória externa | ~1.500 | Dinâmica |
+| 6. Contexto adicional / Saída de Ferramentas | Documentos recuperados, contexto de ferramentas, memória externa | ~1.500 | Dinâmica |
 
 ## Cálculo após 20 interações
 
